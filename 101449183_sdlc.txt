@@ -1,0 +1,9 @@
+The 7 phases of SDLC are:
+1. Planning
+2. Requirements
+3. Design
+4. Development
+5. Testing
+6. Deployment
+7. Maintenance
+
